@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zuyyinahawani@gmail.com**
 
-- ⚡ Fun fact **I am a cute person**
+- ⚡ Fun fact **I'm a cute person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
