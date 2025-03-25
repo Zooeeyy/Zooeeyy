@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zuyyina Hawani</h1>
-<h3 align="center">A passionate Data Science from Indonesia</h3>
+<h1 align="center">Hi👋, I'm Zui </h1>
+<h3 align="center">A passionate Data Science and Database Operator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zooeeyy&label=Profile%20views&color=0e75b6&style=flat" alt="zooeeyy" /> </p>
 
-- 🌱 I’m currently learning **AI/ML, Tableau, Power BI**
+- 🌱 I’m currently learning **AI/ML, Tableau, and Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zooeeyy/](https://github.com/Zooeeyy/)
 
